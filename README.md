@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/hi_chirag_" target="blank"><img src="https://img.shields.io/twitter/follow/hi_chirag_?logo=twitter&style=for-the-badge" alt="hi_chirag_" /></a> </p>
 
-- 🔭 I’m currently working on **Spotify Clone**
+- 🔭 I’m currently working on **Chat Application**
 
-- 🌱 I’m currently learning **React Redux**
+- 🌱 I’m currently learning **Backend Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SenChiragraj](https://github.com/SenChiragraj)
 
