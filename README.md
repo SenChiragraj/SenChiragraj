@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Java, HTML, JavaScript**
 
-- 📫 How to reach me **https://twitter.com/hi_chirag_**
+- 📫 How to reach me **https://twitter.com/hi_chirag_ https://www.instagram.com/hi.chirag_/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
